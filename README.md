@@ -31,11 +31,11 @@ Output:
     python create_Multi.py
     python create_DLBCL.py
     python create_Webkb.py
-    matlab -nodisplay -nosplash -nodesktop -r "run('create_Face.m')"
+    <Your Path>/matlab -nodisplay -nosplash -nodesktop -r "run('create_Face.m')"
     
 ## Scripts for running the demo
 
-    matlab -nodisplay -nosplash -nodesktop -r "run('demo.m')"
+    <Your Path>/matlab -nodisplay -nosplash -nodesktop -r "run('demo.m')"
 
 ## Contact
 
