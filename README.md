@@ -37,5 +37,9 @@ Output:
 
     matlab -nodisplay -nosplash -nodesktop -r "run('demo.m')"
 
+## Contact
 
+Any questions can be directed to:
+
+   * Xiao He: xiao.he [at] bsse.ethz.ch
 
