@@ -1,5 +1,5 @@
 # Kernel-Conditional-Clustering
-Kernel Conditional Clustering (KCC)
+This repository contains Matlab implementations of the algorithm KCC described in "Kernel Conditional Clustering", which is appearing in IEEE ICDM 2017, New Orleans, USA
 
 ## Dependencies
 Data preprocessing: **Python** (2.7.12); **numpy** (1.13.1), **scipy** (0.19.1), **scikit-learn** (0.18.1), **pandas** (0.19.2), **beautifulsoup4** (4.6.0). All of the packages are available via **pip** (9.0.1). Tested on **Ubuntu** (16.04).
