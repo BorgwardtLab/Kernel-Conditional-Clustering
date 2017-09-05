@@ -62,3 +62,4 @@ end
 identity = identity - min(identity);
 X = data;
 save('Face.mat', 'X', 'identity', 'pose', 'expression', 'eye');
+exit()
