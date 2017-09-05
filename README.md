@@ -25,7 +25,7 @@ Output:
 
     H_normalized:  n x d matrix of n samples and d features
         
-## Scripts for generating datasets
+## Scripts for generating datasets (unzip webkb-data.gtar.gz and CMUFace.tar.Z firstly)
 
     python create_Simulation.py
     python create_Multi.py
